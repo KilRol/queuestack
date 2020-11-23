@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="queuestack:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/queuestack_jar</output-path>
+    <root id="archive" name="queuestack.jar">
+      <element id="module-output" name="queuestack" />
+    </root>
+  </artifact>
+</component>
